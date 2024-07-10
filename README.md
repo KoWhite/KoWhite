@@ -11,7 +11,7 @@ A Full Stack JavaScript Developer 🚀 from China. I consider myself as a skille
 <br/>
 Stacks I have worked with : Vue + Element, Vue + TS, Nuxt, HTML5 Game Engines.
 <br/>  
-Things I have recently experimented with : react-cli , Next, Framer Motion and UI design...
+Things I have recently experimented with : React-cli, Next, Framer Motion and UI design...
 <br/>
 Want to become a full-time Freelancer 💸.
 </p>
@@ -20,7 +20,7 @@ Want to become a full-time Freelancer 💸.
   
 ### ✨ Quick Facts
 
-- 🌱 I’m currently learning React and Next
+- 🌱 I’m currently learning React and Next 🎨
 - 💬 Ask me about anything related to JS, Vue.(After googling it 😜😌)
 - ⚡️ Daily Routine: I wake up at 6.30am and go to bed at 11pm 🙃
 - 🎿 Hobbies other than coding : Investing in U.S. Stocks , BTC , Play video games 🎮, Thinking about which muscles I'm going to work on at the gym today 🤔🤖..
